@@ -1,0 +1,23 @@
+{
+  "Logistic Regression": {
+    "Model": "Logistic Regression",
+    "ROC_AUC": 0.8441,
+    "Avg_Precision": 0.6521,
+    "F1": 0.6225,
+    "MCC": 0.4669
+  },
+  "Random Forest": {
+    "Model": "Random Forest",
+    "ROC_AUC": 0.8401,
+    "Avg_Precision": 0.6386,
+    "F1": 0.6264,
+    "MCC": 0.4795
+  },
+  "XGBoost": {
+    "Model": "XGBoost",
+    "ROC_AUC": 0.8378,
+    "Avg_Precision": 0.6463,
+    "F1": 0.6285,
+    "MCC": 0.4759
+  }
+}
